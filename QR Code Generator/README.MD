@@ -2,6 +2,8 @@
 
 A responsive, client-side QR code generator built with HTML, JavaScript, and styled using Tailwind CSS. This application allows users to generate customized QR codes with options for color, size, error correction level, and logo overlay. It includes dark mode support and persistent settings via localStorage. Designed for deployment on GitHub Pages.
 
+Try it live: [QR Code Generator](https://catboy1357.github.io/web-projects/qr-code-generator)
+
 ## Features
 
 - Real-time QR code generation based on user input
